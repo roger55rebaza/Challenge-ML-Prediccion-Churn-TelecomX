@@ -79,7 +79,7 @@ Este proyecto es 100% reproducible. Para explorar el código y los resultados, s
 
 #### **Paso 2: Abrir el Notebook en Google Colab**
 *   El corazón del análisis está en el notebook. Puedes abrirlo directamente en Google Colab con el siguiente enlace para una experiencia interactiva:
-    *   ➡️ **[Abrir Notebook en Google Colab](https://colab.research.google.com/github/roger55rebaza/challenge-ml-churn-telecomx/blob/main/Challenge_ML_TelecomX_Solucion_Roger.ipynb)**
+    *   ➡️ **[Abrir Notebook en Google Colab](https://colab.research.google.com/github/roger55rebaza/Challenge-ML-Prediccion-Churn-TelecomX/blob/main/Challenge_ML_TelecomX_Solucion_Roger.ipynb)**
 
 #### **Paso 3: Ejecutar el Análisis**
 1.  Una vez abierto el notebook en Colab, **sube el archivo `telecom_x_datos_limpios.csv`** al panel de archivos de la izquierda.
