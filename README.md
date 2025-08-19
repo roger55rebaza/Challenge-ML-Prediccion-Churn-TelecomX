@@ -14,7 +14,7 @@ Este repositorio representa la **Parte 2** y la culminación de un proyecto de D
 
 *   **📈 Parte 1: ETL y Análisis Exploratorio (EDA)**
     *   En la fase inicial, se construyó un pipeline de **Extracción, Transformación y Carga (ETL)** para procesar datos crudos desde una API JSON. El resultado fue un dataset limpio y estructurado, junto con un análisis exploratorio que identificó las causas raíz del Churn.
-    *   ➡️ **[Ver el Repositorio de la Parte 1: ETL aquí]([https://github.com/roger55rebaza/challenge-etl-churn-telecomx])**
+    *   ➡️ **[Ver el Repositorio de la Parte 1: ETL aquí](https://github.com/roger55rebaza/challenge-etl-churn-telecomx)**
 
 *   **🤖 Parte 2: Modelado Predictivo (Este Repositorio)**
     *   Utilizando el dataset limpio de la Parte 1, esta fase se enfoca en el **Machine Learning**. Se desarrolla, entrena y evalúa un modelo predictivo capaz de **anticipar** qué clientes tienen la mayor probabilidad de cancelar su servicio, permitiendo a la empresa actuar de forma proactiva.
@@ -71,15 +71,24 @@ Basado en estos hallazgos, se recomienda a Telecom X enfocar sus estrategias de 
 
 ### **💻 Cómo Replicar este Análisis**
 
-1.  Asegúrate de tener el archivo `telecom_x_datos_limpios.csv` de la Parte 1 de este proyecto.
-2.  Abre el notebook `Challenge_ML_TelecomX_Solucion_Roger.ipynb` en [Google Colaboratory](https://colab.research.google.com/).
-3.  Sube el archivo CSV al entorno de Colab.
-4.  Ve a `Entorno de ejecución` > `Ejecutar todo`.
+Este proyecto es 100% reproducible. Para explorar el código y los resultados, sigue esta guía:
+
+#### **Paso 1: Obtener los Archivos del Proyecto**
+*   Puedes clonar este repositorio o simplemente descargar los archivos necesarios. El dataset utilizado es el siguiente:
+    *   📄 **Dataset:** `telecom_x_datos_limpios.csv`
+
+#### **Paso 2: Abrir el Notebook en Google Colab**
+*   El corazón del análisis está en el notebook. Puedes abrirlo directamente en Google Colab con el siguiente enlace para una experiencia interactiva:
+    *   ➡️ **[Abrir Notebook en Google Colab](https://colab.research.google.com/github/roger55rebaza/challenge-ml-churn-telecomx/blob/main/Challenge_ML_TelecomX_Solucion_Roger.ipynb)**
+
+#### **Paso 3: Ejecutar el Análisis**
+1.  Una vez abierto el notebook en Colab, **sube el archivo `telecom_x_datos_limpios.csv`** al panel de archivos de la izquierda.
+2.  Ve al menú `Entorno de ejecución` y selecciona `Ejecutar todo` para ver cómo se desarrolla el pipeline completo, desde la carga de datos hasta la generación de los resultados finales.
 
 ---
 
 ### **👨‍💻 Desarrollado por**
 
-**[Roger Rodriguez Rebaza]**
+**Roger Rodriguez Rebaza**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogerr3/)
